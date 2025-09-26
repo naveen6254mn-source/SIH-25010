@@ -11,7 +11,7 @@ Impact / Why this problem needs to be solved
 
 Helping small farmers make informed decisions can significantly increase productivity, reduce costs, and improve livelihoods. It also contributes to sustainable farming practices, food security, and environmental conservation. A smart advisory solution can empower farmers with scientific insights in their native language and reduce dependency on unreliable third-party advice.
 
-Expected Outcomes
+## Expected Outcomes
 
 • A multilingual, AI-based mobile app or chatbot that provides real-time, location-specific crop advisory.
 • Soil health recommendations and fertilizer guidance.
@@ -21,7 +21,7 @@ Expected Outcomes
 • Voice support for low-literate users.
 • Feedback and usage data collection for continuous improvement.
 
-Relevant Stakeholders / Beneficiaries
+## Relevant Stakeholders / Beneficiaries
 
 • Small and marginal farmers
 • Agricultural extension officers
@@ -29,7 +29,7 @@ Relevant Stakeholders / Beneficiaries
 • NGOs and cooperatives
 • Agri-tech startups
 
-Supporting Data
+## Supporting Data
 
 • 86% of Indian farmers are small or marginal (NABARD Report, 2022).
 • Studies show ICT-based advisories can increase crop yield by 20–30%.
@@ -58,7 +58,7 @@ Ensure scalability, allowing integration with government schemes, agri-extension
 
 Technical Approach
 
-Technologies:
+## Technologies:
 
 Backend: Python, Node.js
 
@@ -70,7 +70,7 @@ Cloud: AWS / Azure for scalable hosting and real-time analytics
 
 APIs: Weather, market price, and government data APIs
 
-Methodology:
+## Methodology:
 
 Data collection (soil, weather, crop disease datasets).
 
@@ -86,7 +86,7 @@ Feasibility and Viability
 
 Feasibility: High, as required technologies are already available and open datasets can be leveraged.
 
-Challenges:
+## Challenges:
 
 Low internet penetration in rural areas.
 
@@ -94,7 +94,7 @@ Building accurate multilingual NLP models.
 
 Farmer adoption due to low digital literacy.
 
-Mitigation:
+## Mitigation:
 
 Offline mode with periodic sync.
 
@@ -112,7 +112,7 @@ Environmental: Promotes sustainable farming practices, reducing chemical overuse
 
 Government/NGOs: Provides data insights for policymaking and targeted interventions.
 
-Research and References
+## Research and References:
 
 NABARD Report 2022: Status of Indian Agriculture
 
