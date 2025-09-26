@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.09.2025
+## Register Number:25017990
+## Name:Naveen.M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -40,29 +40,84 @@ Government of Punjab
 ## Theme
 Agriculture, FoodTech & Rural Development
 
-## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Proposed Solution
 
-## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+We propose to develop an AI-powered, multilingual Smart Crop Advisory System accessible through both mobile applications and voice-enabled chatbots. The system will:
 
-## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Provide personalized crop advisory by integrating soil health data, weather forecasts, and crop history.
 
-## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Offer AI-driven fertilizer and pesticide recommendations, ensuring sustainable usage.
 
-## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+Enable farmers to upload images of crops for automated pest/disease detection.
+
+Deliver market price updates for better financial planning.
+
+Support regional languages and voice commands for farmers with low digital literacy.
+
+Ensure scalability, allowing integration with government schemes, agri-extension services, and local cooperatives.
+
+Technical Approach
+
+Technologies:
+
+Backend: Python, Node.js
+
+Frontend: React Native (for mobile app), Web dashboard for officials
+
+AI/ML: TensorFlow/PyTorch for crop disease detection, NLP for multilingual chatbot
+
+Cloud: AWS / Azure for scalable hosting and real-time analytics
+
+APIs: Weather, market price, and government data APIs
+
+Methodology:
+
+Data collection (soil, weather, crop disease datasets).
+
+AI model training for image-based pest detection and NLP chatbot.
+
+Development of multilingual mobile app with voice assistance.
+
+Integration with weather APIs and soil health reports.
+
+Pilot testing with local farmers and feedback incorporation.
+
+Feasibility and Viability
+
+Feasibility: High, as required technologies are already available and open datasets can be leveraged.
+
+Challenges:
+
+Low internet penetration in rural areas.
+
+Building accurate multilingual NLP models.
+
+Farmer adoption due to low digital literacy.
+
+Mitigation:
+
+Offline mode with periodic sync.
+
+Voice-based and icon-driven UI.
+
+Local language support and community training programs.
+
+Impact and Benefits
+
+Social: Empowers farmers with reliable, localized knowledge.
+
+Economic: Reduces input costs and increases yield, improving farmer income.
+
+Environmental: Promotes sustainable farming practices, reducing chemical overuse.
+
+Government/NGOs: Provides data insights for policymaking and targeted interventions.
+
+Research and References
+
+NABARD Report 2022: Status of Indian Agriculture
+
+FAO Studies on ICT in Agriculture
+
+ICAR (Indian Council of Agricultural Research) publications on crop advisory systems
+
+Case studies on AI-based pest detection in agriculture
